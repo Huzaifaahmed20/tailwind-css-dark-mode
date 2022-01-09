@@ -1,6 +1,6 @@
 # Dark Mode in Tailwind CSS
 
-Dribble: https://dribbble.com/shots/11396399-Simple-homepage-design
+Tutorial: https://www.youtube.com/watch?v=EcBwrDFNzkw
 
 ## Light Mode
 
@@ -13,3 +13,6 @@ Dribble: https://dribbble.com/shots/11396399-Simple-homepage-design
 ## Dark Mode
 
 <img src="src/assets/dark-mode.png">
+
+Design Credits: https://dribbble.com/shots/11396399-Simple-homepage-design
+
